@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohd Hashir Sheikh 😊<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Data+Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡;Solved+500%2B+Problems+in+Data+Science+💡;Continuous+Learner+and+Innovative+Thinker+🔍)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Data+Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡;Solved+500%2B+Problems+in+Data+Science+💡)</div>](https://git.io/typing-svg)
 <hr>
 
 ### 👨‍💻 About Me:
@@ -34,10 +34,10 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 
 <hr>
 
-#### 👨‍💻 Connect with Me:
+### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://hashirsheikh.github.io">
-    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
+  <a href="https://hashir-sheikh-da.github.io/">
+    <img align="left" src="https://img.icons8.com/plasticine/100/000000/globe.png" width="32px" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/hashir-sheikh/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
