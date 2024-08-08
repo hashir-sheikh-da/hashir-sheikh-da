@@ -28,9 +28,14 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 
 <hr>
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Visitors"/> &nbsp;
+  <b>👀 Visitor's Count:</b>
+</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{hashirsheikh}/count.svg" alt="Hashir's Visitor Count" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{hashirsheikh}/count.svg" alt="Hashir's Visitor Count" />
+</p>
 
 <hr>
 
