@@ -28,8 +28,10 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 
 <hr>
 
+<hr>
+
 <h3 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Visitors"/> &nbsp;
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Visitors"/> &nbsp;
   <b>👀 Visitor's Count:</b>
 </h3>
 
