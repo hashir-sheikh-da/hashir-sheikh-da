@@ -18,11 +18,13 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 <br />
 <hr>
 
-#### What Do I Do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50">
+### 🚀 What Do I Do? <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
 
 <h4>✅ Aspiring to work as a Data Analyst in dynamic environments.</h4>
 <h4>✅ A fast learner seeking opportunities to grow in the field of data analytics.</h4>
 <h4>✅ Open to collaborations and innovative projects.</h4>
+<h4>✅ Dedicated to making data-driven decisions and driving impactful results.</h4>
+<h4>✅ Let’s connect and explore the power of data together!</h4>
 
 <hr>
 
