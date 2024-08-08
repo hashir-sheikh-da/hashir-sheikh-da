@@ -46,14 +46,19 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 
 <hr>
 
-#### 👨‍💻 Tech Stack & Working Tools:
+### 🛠️ Tech Stack & Working Tools:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/sql-%230072C6.svg?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234F5D95.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/selenium-%234B9ED1.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/beautifulsoup-%233C5C5C.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/visual_studio_code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
