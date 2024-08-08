@@ -12,8 +12,9 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Based in Delhi, India.
+- 📂 Explore all my projects [here](https://github.com/hashir-sheikh-da?tab=repositories) 
 - 🔗 Visit my [Portfolio](https://hashir-sheikh-da.github.io/) for more details.
-- 📧 You can reach me at [hashirsheikh311022@gmail.com](mailto:hashirsheikh311022@gmail.com)
+- 📧 You can reach me at [hashirsheikh311022@gmail.com](mailto:hashirsheikh311022@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hashir-sheikh) 
 - 📧 Contact me at [Contact Me](https://forms.gle/jr4DKTUZjJBv7hyv7)
 <br />
 <hr>
