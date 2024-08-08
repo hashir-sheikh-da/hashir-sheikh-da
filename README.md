@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohd Hashir Sheikh 😊<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Mohd Hashir Sheikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Data+Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡;Solved+500%2B+Problems+in+Data+Science+💡)</div>](https://git.io/typing-svg)
 <hr>
@@ -70,16 +70,18 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 <hr>
 
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱 My GitHub stats:</b></i> 
+<img src="https://media.giphy.com/media/X8qV7YO5Be4tQ/giphy.gif" width="30px" alt="Stats"/>&nbsp;<i><b>📊 My GitHub Stats:</b></i> 
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashirsheikh&count_private=true&theme=light" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hashirsheikh&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
-</div>
-<br>
-<br>
-  <img className="github-top-langs" id="github-top-langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsheikh&layout=compact&theme=light&hide_border=true"
-       alt="top languages"
-       id="github-top-langs" />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashir-sheikh-da&count_private=true&theme=light&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hashir-sheikh-da&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img className="github-top-langs" id="github-top-langs"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-sheikh-da&layout=compact&theme=light&hide_border=true"
+       alt="top languages" />
+</div>
