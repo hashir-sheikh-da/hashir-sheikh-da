@@ -77,7 +77,8 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 <hr>
 
 <p align="center">
-<img src="https://media.giphy.com/media/X8qV7YO5Be4tQ/giphy.gif" width="30px" alt="Stats"/>&nbsp;<h3><b>📊 My GitHub Stats:</b></h3> 
+<img src="https://media.giphy.com/media/X8qV7YO5Be4tQ/giphy.gif" width="30px" alt="Stats"/>&nbsp;
+  <h3><b>📊 My GitHub Stats:</b></h3> 
 </p>
 
 <div align="center">
