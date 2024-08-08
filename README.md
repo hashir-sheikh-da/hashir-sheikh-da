@@ -37,7 +37,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://hashir-sheikh-da.github.io/">
-    <img align="left" src="https://img.icons8.com/plasticine/100/000000/globe.png" width="32px" alt="Website" />
+    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/hashir-sheikh/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
